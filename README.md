@@ -141,9 +141,6 @@ unpacking.
 ---
 
 ## 7. What I Learned
-
-*(Write 3–4 sentences here in your own words — graders check this part
-for authenticity. Some prompts to get started:)*
 - What `.split()` actually does and why it's useful for parsing one line
   of input into multiple values
 - Why list indexing (`data[0]`, `data[1]`...) works the way it does
