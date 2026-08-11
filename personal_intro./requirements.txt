@@ -1,0 +1,3 @@
+# No external dependencies — this project only uses Python's
+# built-in input(), print(), and str.split() methods.
+# Requires Python 3.x
